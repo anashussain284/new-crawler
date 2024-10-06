@@ -12,7 +12,7 @@ The **News Crawler** is a PHP-based web application designed to extract and disp
 ## Installation
 
 ### Prerequisites
-- PHP 7.4 or later
+- PHP 8.2 or later
 - Composer (dependency manager for PHP)
 - Web server (e.g., Apache, Nginx)
 
