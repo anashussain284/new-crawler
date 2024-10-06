@@ -1,0 +1,18 @@
+{
+    "name": "anashussain284/news-crawler",
+    "autoload": {
+        "psr-4": {
+            "MyCrawler\\":"src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anas Hussain M",
+            "email": "anashussain@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/css-selector": "^7.1",
+        "symfony/dom-crawler": "^7.1"
+    }
+}
